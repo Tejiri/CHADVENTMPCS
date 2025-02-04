@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "264027264212",
+    "project_id": "chadvent-70407",
+    "storage_bucket": "chadvent-70407.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264027264212:android:7306a2e7f2f8bbadf29741",
+        "android_client_info": {
+          "package_name": "com.xita.chadventmpcs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpHuuP09rmqkBxFYf3D1JJxurcWAGm-2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264027264212:android:345e25990c444a99f29741",
+        "android_client_info": {
+          "package_name": "com.xita.chadventmpcs.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpHuuP09rmqkBxFYf3D1JJxurcWAGm-2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
